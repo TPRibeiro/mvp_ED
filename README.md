@@ -73,9 +73,9 @@ Um modelo preditivo com machine learning também foi criado anteriormente com ba
 - O notebook foi exportado com as células executadas para preservar os outputs e facilitar a visualização.
 - Alguns arquivos, como imagens, não foram incorporados automaticamente durante a exportação do notebook. Por isso, os seguintes arquivos foram adicionados manualmente ao repositório:
   - `Figura1_conceitual.png` – Figura 1. Diagrama do modelo conceitual
-  - `Figura2_logico.png` – Diagrama do modelo lógico
-  - `dicionario.png` – Dicionário de dados original
-  - `dicionario_2.png` – Dicionário com estatísticas (mínimos, máximos, médias)
+  - `Figura2_logico.png` – Figura 2. Diagrama do modelo lógico
+  - `dicionario.png` – Dicionário de dados. Dicionário de dados original
+  - `dicionario_2.png` – Dicionário de dados 2. Dicionário com estatísticas (mínimos, máximos, médias)
 
 Esses arquivos podem ser referenciados diretamente nos notebooks conforme necessário.
 
