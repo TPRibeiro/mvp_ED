@@ -66,21 +66,19 @@ Um modelo preditivo com machine learning também foi criado anteriormente com ba
 - PySpark
 - Delta Lake
 - SQL (SparkSQL)
-- Pandas (para construção do dicionário de dados)
-- Markdown
 
 ## Observações
 
 - O dataset apresenta viés devido à geração sintética via SMOTE. As conclusões devem ser interpretadas com cautela.
 - O notebook foi exportado com as células executadas para preservar os outputs e facilitar a visualização.
-- Alguns arquivos como imagens e dicionários não foram incorporados automaticamente durante a exportação do notebook. Por isso, os seguintes arquivos foram adicionados manualmente ao repositório:
-  - `figura1.png` – Diagrama do modelo conceitual
-  - `figura2.png` – Diagrama do modelo lógico
-  - `dicionario.csv` – Dicionário de dados original
-  - `dicionario2.csv` – Dicionário com estatísticas (mínimos, máximos, médias)
+- Alguns arquivos, como imagens, não foram incorporados automaticamente durante a exportação do notebook. Por isso, os seguintes arquivos foram adicionados manualmente ao repositório:
+  - `Figura1_conceitual.png` – Figura 1. Diagrama do modelo conceitual
+  - `Figura2_logico.png` – Diagrama do modelo lógico
+  - `dicionario.png` – Dicionário de dados original
+  - `dicionario_2.png` – Dicionário com estatísticas (mínimos, máximos, médias)
 
 Esses arquivos podem ser referenciados diretamente nos notebooks conforme necessário.
 
 ## Contato
 
-Caso tenha dúvidas ou sugestões, fique à vontade para abrir uma issue ou entrar em contato.
+Caso tenha dúvidas ou sugestões, fique à vontade para entrar em contato.
